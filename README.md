@@ -2,3 +2,5 @@
 This repository contains the data and scripts necessary to analyze and visualize the results for this manuscript.
 
 Manuscript title: Predicting lead hotspots in urban stormwater ponds across the Twin Cities Metro
+
+Details on all variables can we found in the "Variable_metadata_github" file
